@@ -1,2 +1,2 @@
-# hello-world
-This is the first repository in github.com site
+# Title: hello-world
+Description: This is the first repository in github.com site
