@@ -1,2 +1,4 @@
-# Title: hello-world
-Description: This is the first repository in github.com site
+# hello-world 
+This is the first reposity is the github.com site
+
+I like Python programming and its related frameworks like "django".
